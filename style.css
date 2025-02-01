@@ -687,10 +687,9 @@ body:not(.user-is-tabbing) a:focus {
     .project__box{
         margin-top: -100px;
     }
-    /* .project__image-box_m{
-        margin-left: -230px;
-        transform: scale(0.7);
-    } */
+    .project__box{
+        margin-top: -100px;
+    }
     .heading-primary span {
         font-size: 40px;
         white-space: nowrap;
